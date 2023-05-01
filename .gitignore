@@ -1,0 +1,18 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# IDE files
+.vs/
+.idea/
+
+# Generated files
+*.g.cs
+*.feature.cs
+
+# User files
+*.user
